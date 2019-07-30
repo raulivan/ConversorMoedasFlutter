@@ -1,6 +1,6 @@
 # conversor_moedas
 
-App de conversão de Rela para Dólar e Euro
+App de conversão de Real para Dólar e Euro
 
 ## Getting Started
 
